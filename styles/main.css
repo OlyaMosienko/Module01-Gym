@@ -67,3 +67,15 @@ body {
     transform: scale(1.2);
     opacity: 1;
  }
+.main-title {
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 1.25;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #2B3541;
+}
+.main-title span {
+    font-weight: 400;
+    font-size: 40px;
+}
